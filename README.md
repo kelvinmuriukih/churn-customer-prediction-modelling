@@ -10,9 +10,11 @@ Customer churn refers to the phenomenon where customers discontinue their relati
 
 ## Objectives
 This projects aims to create a classification model that determine customer churning
+
 To dentifly features to help retain customer.
 
 The notebook covers the following key steps:
+
 •	Data Loading and Exploration: Load the dataset and perform initial exploration to understand its structure, feature types, and any missing values.
 •	Exploratory Data Analysis (EDA): Conduct an in-depth analysis of the dataset, including visualizations and statistical summaries, to gain insights into the distribution and relationships between variables.
 •	Predictive Modeling: Build and evaluate predictive models using machine learning algorithms to predict customer churn and measure their performance.
