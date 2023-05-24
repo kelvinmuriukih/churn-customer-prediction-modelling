@@ -17,6 +17,7 @@ The notebook covers the following key steps:
 
 •	Data Loading and Exploration: Load the dataset and perform initial exploration to understand its structure, feature types, and any missing values.
 •	Exploratory Data Analysis (EDA): Conduct an in-depth analysis of the dataset, including visualizations and statistical summaries, to gain insights into the distribution and relationships between variables.
-•	Predictive Modeling: Build and evaluate predictive models using machine learning algorithms to predict customer churn and measure their performance.
-•	Model Interpretation and Insights: Analyze the model results, feature importances, and coefficients to extract meaningful insights and actionable recommendations to reduce churn and improve customer retention.
+•	Predictive Modeling: Build predictive models using machine learning algorithms to predict customer churn and measure their performance.
+•	Model Evaluation: measure the performance of diffrent models to evalute their effectiveness on prediciting on unseen data.
+•	Model Interpretation and Insights: Analyze the model results, and coefficients to extract meaningful insights and actionable recommendations to reduce churn and improve customer retention.
 Throughout the notebook, code snippets, visualizations, and explanations will be provided to guide the analysis process.
